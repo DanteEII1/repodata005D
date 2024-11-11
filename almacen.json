@@ -1,0 +1,70 @@
+{
+  "mascotas": [
+    {
+      "id": "2",
+      "nombre": "león",
+      "tipo": "gato",
+      "color": "blanco"
+    },
+    {
+      "id": "7982",
+      "nombre": "Lulu",
+      "tipo": "Perro",
+      "color": "cafe"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "usuario1",
+      "password": "duoc1234",
+      "email": "usuario1@mail.cl",
+      "isactive": true
+    },
+    {
+      "id": "2",
+      "username": "usuario2",
+      "password": "maipu1234",
+      "email": "usuario2@mail.cl",
+      "isactive": true
+    }
+  ],
+  "qr": [
+    {
+      "id": "4f77",
+      "nomMascota": "león",
+      "tipoMascota": "perro",
+      "username": "usuario1"
+    },
+    {
+      "id": "bfa4",
+      "nomMascota": "león",
+      "tipoMascota": "perro",
+      "username": "usuario1"
+    },
+    {
+      "id": "737b",
+      "nomMascota": "león",
+      "tipoMascota": "perro",
+      "username": "usuario1"
+    },
+    {
+      "id": "794b",
+      "nomMascota": "león",
+      "tipoMascota": "perro",
+      "username": "usuario1"
+    },
+    {
+      "id": "7dc3",
+      "nomMascota": "león",
+      "tipoMascota": "perro",
+      "username": "usuario1"
+    },
+    {
+      "id": "4b33",
+      "nomMascota": "león",
+      "tipoMascota": "gato",
+      "username": "usuario1"
+    }
+  ]
+}
